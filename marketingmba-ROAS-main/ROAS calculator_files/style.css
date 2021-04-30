@@ -147,6 +147,12 @@ select option {
 span.calc_description {
   font-weight: 100;
 }
+#currency,
+#time_unit_length {
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #fff !important;
+    appearance: none;
+    background-position-x: 95% !important;
+}
 .calc_input {
   border-radius: 20px 20px 20px 20px;
   float: left;
